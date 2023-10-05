@@ -80,7 +80,7 @@ class ClienteController extends Controller
             ]
         ]);
     }
-
+ 
     /**
      * Display the specified resource.
      */
